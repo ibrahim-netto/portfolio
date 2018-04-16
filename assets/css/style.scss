@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #a90006;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: #4C0000;
+  font-weight: normal;
+}
+
+h1 a:hover, h1 a:focus {
+  font-weight: bold;
+}
+
+.default-container {
+  height: 14px;
+  margin: 0 0 20px;
+}
+
+.default-icon {
+  float: left;
+  width: 18px;
+  margin-right: 8px;
+}

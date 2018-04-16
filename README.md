@@ -1,37 +1,131 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/ibrahim-netto/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Full-stack developer, system analyst and partner at Advisor Tecnologia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular 5 for front-end and MongoDB as database.
 
-### Markdown
+Graduated in Computer Science from FEI University and also graduated in Marketing from ESPM college.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Curriculum Vitae
 
-```markdown
-Syntax highlighted code block
+[Click here](/portfolio/assets/other/ibrahim-netto-curriculum-vitae.pdf){:target="_blank"} to download the curriculum vitae in pt-BR.
 
-# Header 1
-## Header 2
-### Header 3
+## Portfolio
 
-- Bulleted
-- List
+### Espelho de Vendas
 
-1. Numbered
-2. List
+Advisor Technology is a software development and IT consulting firm.
 
-**Bold** and _Italic_ and `Code` text
+The objective of this project was to create a responsive web module, capable of running on mobile devices and tablets, to control land sales for the real estate management software developed by the company.
 
-[Link](url) and ![Image](src)
-```
+![alt text](/portfolio/assets/images/espelho-de-vendas.jpeg "Espelho de Vendas")
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For its construction, IBM Domino server and database was used with ExtJS framework for the front-end.
 
-### Jekyll Themes
+The link provided to view the project is only a demonstration, with some active features (valid bar codes: 'ATEI9JRC4E', 'ATEI9JRC4F').
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ibrahim-netto/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[https://espelhodevendas.ibrahimnetto.com/](https://espelhodevendas.ibrahimnetto.com/){:target="_blank"}
 
-### Support or Contact
+##### Keywords: mobile development, lotus-domino, lotus-notes, html5, html5-canvas, css3, javascript, extjs
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Colabore Crowdfunding
+
+Colabore Crowdfunding is a startup founded in 2015 with the goal of professionalizing collective financing in Brazil. Currently, the company is no longer in operation.
+
+The objective of this project was the development of a platform of own and innovative crowdfunding, where fundraising could be accompanied by any user in real time, in desktop computers as well as mobile devices.  For its construction, the Meteor framework was used, components of Google Material Design Lite for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
+
+![alt text](/portfolio/assets/images/colabore-crowdfunding.jpeg "Colabore Crowdfunding")
+
+The link provided to view the project is only a demonstration, with some active features.
+
+[https://colabore.ibrahimnetto.com](https://colabore.ibrahimnetto.com){:target="_blank"}
+
+##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, material-design
+
+### Instituto Boaz Forti
+
+Instituto Boaz Forti is a preparatory school for public tenders of military police in Brazil.
+
+The objective of this project was the development of a platform to control enrollment of students and cash flow.
+
+![alt text](/portfolio/assets/images/boaz-forti.jpeg "Instituto Boaz Forti")
+
+The link provided to view the project is only a demonstration, with some active features (username: 'guest', password: '123456').
+
+[https://boaz.ibrahimnetto.com](https://boaz.ibrahimnetto.com){:target="_blank"}
+
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular5, clarity-design
+
+### Precision Agriculture Using Remote Monitoring Systems
+
+Precision Agriculture Using Remote Monitoring Systems was the subject chosen by me to be developed for completion work of a bachelor's degree in computer science from FEI University. Subsequently, this same work led to the publication of a paper at the IEEE Global Humanitarian Technology Conference 2017.
+
+Paper publication link:
+
+[http://ieeexplore.ieee.org/document/8239290](http://ieeexplore.ieee.org/document/8239290){:target="_blank"}
+
+![alt text](/portfolio/assets/images/precision-agriculture-0.jpeg "Precision Agriculture Using Remote Monitoring Systems")
+
+The project includes a real-time, in-situ agricultural internet of things (IoT) device designed to monitor the state of the soil and the environment. This device was designed to be compatible with open hardware and it is composed of temperature and humidity sensors (soil and environment), electrical conductivity of the soil and luminosity, Global Positioning System (GPS) and a ZigBee radio for data communication.
+
+![alt text](/portfolio/assets/images/precision-agriculture-1.jpeg "System architecture")
+
+For the monitoring device construction, the developed software used Node.js platform as base, with a Raspberry PI connected to all the sensors, the mesh network interface and a custom circuit board.
+
+![alt text](/portfolio/assets/images/precision-agriculture-2.jpeg "Hardware diagram with custom circuit board")
+
+For the central communication with all monitoring devices, the Koa framework was used together with a custom communication protocol over Zigbee, components of Semantic UI and Highcharts for the data visualization front-end and MongoDB as database.
+
+![alt text](/portfolio/assets/images/precision-agriculture-3.jpeg "Prototype built")
+
+The link provided to view the project is only a demonstration, with some active features.
+
+[https://agricultura.ibrahimnetto.com](https://agricultura.ibrahimnetto.com){:target="_blank"}
+
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, semantic-ui, highcharts, raspberry-pi, zigbee
+
+### Papel de Pão
+
+Papel de Pão is a startup founded in 2015 with the goal of facilitate work with grocery shopping lists. Currently, the company is no longer in operation.
+
+The objective of this project was the development of a hybrid platform where users can create grocery shopping lists and share them in real time with their friends. The application must run both on web browsers and on mobile devices natively.
+
+![alt text](/portfolio/assets/images/papel-de-pao.jpeg "Papel de Pão")
+
+The link provided to view the project is only a demonstration, with some active features.
+
+[https://papeldepao.ibrahimnetto.com](https://papeldepao.ibrahimnetto.com){:target="_blank"}
+
+##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, polymer, material-design
+
+### Colabore Eleições
+
+Colabore Crowdfunding is a startup founded in 2015 with the goal of professionalizing collective financing in Brazil. Currently, the company is no longer in operation.
+
+Colabore Eleições is a product of Colabore Crowdfunding specifically for fundraising election campaigns for political candidates, where they can register campaigns and raise funds. The platform should be accessible on desktop computers as well as mobile devices.
+
+![alt text](/portfolio/assets/images/colabore-eleicoes.jpeg "Colabore Eleições")
+
+For its construction, the Koa framework was used, components of Skeleton responsive boilerplate and Bootstrap for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
+
+The link provided to view the project is only a demonstration, with some active features.
+
+[https://eleicoes.ibrahimnetto.com](https://eleicoes.ibrahimnetto.com){:target="_blank"}
+
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, bootstrap, skeleton
+
+### Advisor Application Pricing
+
+Advisor Tecnologia is a software development and iT consulting company.
+
+The objective of this project was provide to customers a price simulation platform for application development projects.
+
+![alt text](/portfolio/assets/images/app-me-up.jpeg "Advisor Application Pricing")
+
+For its construction, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
+
+The link provided to view the project is only a demonstration, with some active features.
+
+[https://appmeup.ibrahimnetto.com](https://appmeup.ibrahimnetto.com){:target="_blank"}
+
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material-design
