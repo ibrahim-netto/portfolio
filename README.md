@@ -8,7 +8,7 @@ Graduated in Computer Science from FEI University and also graduated in Marketin
 
 ## Curriculum Vitae
 
-[Click here](/portfolio/assets/other/ibrahim-netto-curriculum-vitae.pdf){:target="_blank"} to download the curriculum vitae in pt-BR.
+[Click here](https://ibrahim-netto.github.io/portfolio/assets/other/ibrahim-netto-curriculum-vitae.pdf){:target="_blank"} to download the curriculum vitae in pt-BR.
 
 ## Portfolio
 
@@ -18,7 +18,7 @@ Advisor Technology is a software development and IT consulting firm.
 
 The objective of this project was to create a responsive web module, capable of running on mobile devices and tablets, to control land sales for the real estate management software developed by the company.
 
-![alt text](/portfolio/assets/images/espelho-de-vendas.jpeg "Espelho de Vendas")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-de-vendas.jpeg "Espelho de Vendas")
 
 For its construction, IBM Domino server and database was used with ExtJS framework for the front-end.
 
@@ -34,7 +34,7 @@ Colabore Crowdfunding is a startup founded in 2015 with the goal of professional
 
 The objective of this project was the development of a platform of own and innovative crowdfunding, where fundraising could be accompanied by any user in real time, in desktop computers as well as mobile devices.  For its construction, the Meteor framework was used, components of Google Material Design Lite for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
 
-![alt text](/portfolio/assets/images/colabore-crowdfunding.jpeg "Colabore Crowdfunding")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/colabore-crowdfunding.jpeg "Colabore Crowdfunding")
 
 The link provided to view the project is only a demonstration, with some active features.
 
@@ -48,7 +48,7 @@ Instituto Boaz Forti is a preparatory school for public tenders of military poli
 
 The objective of this project was the development of a platform to control enrollment of students and cash flow.
 
-![alt text](/portfolio/assets/images/boaz-forti.jpeg "Instituto Boaz Forti")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/boaz-forti.jpeg "Instituto Boaz Forti")
 
 The link provided to view the project is only a demonstration, with some active features (username: 'guest', password: '123456').
 
@@ -64,19 +64,19 @@ Paper publication link:
 
 [http://ieeexplore.ieee.org/document/8239290](http://ieeexplore.ieee.org/document/8239290){:target="_blank"}
 
-![alt text](/portfolio/assets/images/precision-agriculture-0.jpeg "Precision Agriculture Using Remote Monitoring Systems")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-0.jpeg "Precision Agriculture Using Remote Monitoring Systems")
 
 The project includes a real-time, in-situ agricultural internet of things (IoT) device designed to monitor the state of the soil and the environment. This device was designed to be compatible with open hardware and it is composed of temperature and humidity sensors (soil and environment), electrical conductivity of the soil and luminosity, Global Positioning System (GPS) and a ZigBee radio for data communication.
 
-![alt text](/portfolio/assets/images/precision-agriculture-1.jpeg "System architecture")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-1.jpeg "System architecture")
 
 For the monitoring device construction, the developed software used Node.js platform as base, with a Raspberry PI connected to all the sensors, the mesh network interface and a custom circuit board.
 
-![alt text](/portfolio/assets/images/precision-agriculture-2.jpeg "Hardware diagram with custom circuit board")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-2.jpeg "Hardware diagram with custom circuit board")
 
 For the central communication with all monitoring devices, the Koa framework was used together with a custom communication protocol over Zigbee, components of Semantic UI and Highcharts for the data visualization front-end and MongoDB as database.
 
-![alt text](/portfolio/assets/images/precision-agriculture-3.jpeg "Prototype built")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-3.jpeg "Prototype built")
 
 The link provided to view the project is only a demonstration, with some active features.
 
@@ -90,7 +90,7 @@ Papel de Pão is a startup founded in 2015 with the goal of facilitate work with
 
 The objective of this project was the development of a hybrid platform where users can create grocery shopping lists and share them in real time with their friends. The application must run both on web browsers and on mobile devices natively.
 
-![alt text](/portfolio/assets/images/papel-de-pao.jpeg "Papel de Pão")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/papel-de-pao.jpeg "Papel de Pão")
 
 The link provided to view the project is only a demonstration, with some active features.
 
@@ -104,7 +104,7 @@ Colabore Crowdfunding is a startup founded in 2015 with the goal of professional
 
 Colabore Eleições is a product of Colabore Crowdfunding specifically for fundraising election campaigns for political candidates, where they can register campaigns and raise funds. The platform should be accessible on desktop computers as well as mobile devices.
 
-![alt text](/portfolio/assets/images/colabore-eleicoes.jpeg "Colabore Eleições")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/colabore-eleicoes.jpeg "Colabore Eleições")
 
 For its construction, the Koa framework was used, components of Skeleton responsive boilerplate and Bootstrap for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
 
@@ -120,7 +120,7 @@ Advisor Tecnologia is a software development and iT consulting company.
 
 The objective of this project was provide to customers a price simulation platform for application development projects.
 
-![alt text](/portfolio/assets/images/app-me-up.jpeg "Advisor Application Pricing")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/app-me-up.jpeg "Advisor Application Pricing")
 
 For its construction, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
 
