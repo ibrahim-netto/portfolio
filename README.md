@@ -1,6 +1,8 @@
 ## About
 
-Full-stack developer, system analyst and partner at Advisor Tecnologia.
+Full-stack developer, system analyst and partner at CEI Tecnologia.
+
+Former partner of Advisor Tecnologia.
 
 Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular 5 for front-end and MongoDB as database.
 
@@ -14,7 +16,7 @@ Graduated in Computer Science from FEI University and also graduated in Marketin
 
 ### Espelho de Vendas
 
-Advisor Technology is a software development and IT consulting firm.
+CEI Technology is a software development and IT consulting firm.
 
 The objective of this project was to create a responsive web module, capable of running on mobile devices and tablets, to control land sales for the real estate management software developed by the company.
 
@@ -24,7 +26,7 @@ For its construction, IBM Domino server and database was used with ExtJS framewo
 
 The link provided to view the project is only a demonstration, with some active features (valid bar codes: 'ATEI9JRC4E', 'ATEI9JRC4F').
 
-[https://espelhodevendas.ibrahimnetto.com/](https://espelhodevendas.ibrahimnetto.com/){:target="_blank"}
+[https://espelho-alphaville.cei.dev](https://espelho-alphaville.cei.dev){:target="_blank"}
 
 ##### Keywords: mobile development, lotus-domino, lotus-notes, html5, html5-canvas, css3, javascript, extjs
 
@@ -38,7 +40,7 @@ The objective of this project was the development of a platform of own and innov
 
 The link provided to view the project is only a demonstration, with some active features.
 
-[https://colabore.ibrahimnetto.com](https://colabore.ibrahimnetto.com){:target="_blank"}
+[https://colabore.cei.dev](https://colabore.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, material-design
 
@@ -52,7 +54,7 @@ The objective of this project was the development of a platform to control enrol
 
 The link provided to view the project is only a demonstration, with some active features (username: 'guest', password: '123456').
 
-[https://boaz.ibrahimnetto.com](https://boaz.ibrahimnetto.com){:target="_blank"}
+[https://boaz.cei.dev](https://boaz.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular5, clarity-design
 
@@ -80,7 +82,7 @@ For the central communication with all monitoring devices, the Koa framework was
 
 The link provided to view the project is only a demonstration, with some active features.
 
-[https://agricultura.ibrahimnetto.com](https://agricultura.ibrahimnetto.com){:target="_blank"}
+[https://agricultura.cei.dev](https://agricultura.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, semantic-ui, highcharts, raspberry-pi, zigbee
 
@@ -94,7 +96,7 @@ The objective of this project was the development of a hybrid platform where use
 
 The link provided to view the project is only a demonstration, with some active features.
 
-[https://papeldepao.ibrahimnetto.com](https://papeldepao.ibrahimnetto.com){:target="_blank"}
+[https://papeldepao.cei.dev](https://papeldepao.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, polymer, material-design
 
@@ -110,13 +112,13 @@ For its construction, the Koa framework was used, components of Skeleton respons
 
 The link provided to view the project is only a demonstration, with some active features.
 
-[https://eleicoes.ibrahimnetto.com](https://eleicoes.ibrahimnetto.com){:target="_blank"}
+[https://colabore-eleicoes.cei.dev](https://colabore-eleicoes.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, bootstrap, skeleton
 
 ### Advisor Application Pricing
 
-Advisor Tecnologia is a software development and iT consulting company.
+CEI Tecnologia is a software development and iT consulting company.
 
 The objective of this project was provide to customers a price simulation platform for application development projects.
 
@@ -126,6 +128,6 @@ For its construction, the Koa framework was used, Polymer library with Paper-Ele
 
 The link provided to view the project is only a demonstration, with some active features.
 
-[https://appmeup.ibrahimnetto.com](https://appmeup.ibrahimnetto.com){:target="_blank"}
+[https://appmeup.cei.dev](https://appmeup.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material-design
