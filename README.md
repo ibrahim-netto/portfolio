@@ -26,7 +26,7 @@ For its construction, IBM Domino server and database was used with ExtJS framewo
 
 The link provided to view the project is only a demonstration, with some active features (valid bar codes: 'ATEI9JRC4E', 'ATEI9JRC4F').
 
-[https://espelho-alphaville.cei.dev](https://espelho-alphaville.cei.dev){:target="_blank"}
+[https://espelho-de-vendas.cei.dev](https://espelho-alphaville.cei.dev){:target="_blank"}
 
 ##### Keywords: mobile development, lotus-domino, lotus-notes, html5, html5-canvas, css3, javascript, extjs
 
