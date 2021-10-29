@@ -17,7 +17,7 @@ Bachelor of Science (BS), Computer science by FEI University and also Bachelor o
 
 ## Skills
 
-| #JavaScript #HTML5 #CSS3 #Angular #React #ExtJS #Polymer #FrontEndDevelopment #Node.js #Express #Koa #Apollo #BackEndDevelopment #GraphQL #REST #APIDevelopment #Mongoose #MongoDB #MySQL #3TStudio #DatabaseDevelopment #Puppeteer #Cheerio.js #Fetch #Automation #Bot #WebScraper #WebCrawler #DataExtraction #DataMining #Azure #AWS #VM #Functions #Cloud #Cordova #Electron #PKG #HybridDevelopment |
+JavaScript, HTML5, CSS3, Angular, React, ExtJS, Polymer, FrontEndDevelopment, Node.js, Express, Koa, Apollo, BackEndDevelopment, GraphQL, REST, APIDevelopment, Mongoose, MongoDB, MySQL, 3TStudio, DatabaseDevelopment, Puppeteer, Cheerio.js, Fetch, Automation, Bot, WebScraper, WebCrawler, DataExtraction, DataMining, Azure, AWS, VM, Functions, Cloud, Cordova, Electron, PKG, HybridDevelopment.
 
 ## Curriculum Vitae
 
