@@ -37,6 +37,8 @@ In addition, the application offers an interactive 3D experience for the user wi
 
 With a few clicks, the user chooses his lot, down payment value, installments plan and contract acceptance to finally make the down payment with PIX (Brazilian bank payment system) by QR-Code.
 
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-clientes-1.png "Espelho Digital")
+
 The project revolutionized the way to buy lots in the Brazilian real estate market, also becoming a viable alternative for clients who prefer not to leave their homes in view of the restrictions imposed by Covid-19. The project is an absolute success, processing more than USD 180,000 in less than 24 hours per launch.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-2.png "Espelho Digital")
@@ -49,7 +51,19 @@ For the development, Node.js with Apollo framework, GraphQL API and WebSockets w
 
 CEI Technology is a software development and IT consulting firm.
 
+Gestão Digital is an application offered as a product by CEI Tecnologia for the real estate market. 
+
+The objective of this project is to provide a standard central platform for registering real estate agents, brokers and clients for real estate launches.
+
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-digital.png "Gestão Digital")
+
+The platform also has a module for sales control, which can be used in a single point (centralized) or several sale points (decentralized). As a complement, its possible to use together with Espelho Digital application, which is also offered as a product by CEI Tecnologia.
+
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-clientes-2.png "Espelho Digital")
+
+Dashboards and management reports are provided in real time, allowing a complete overview of sales, real estate performance, customer profiles, etc., helping in decision making.
+
+For the development, Node.js with Apollo framework, GraphQL API and WebSockets was used as back-end, Angular with Clarity Design for the front-end components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
 
 ##### Keywords: node.js, apollo server, graphql, mongoose, mongodb, html5, css3, javascript, typescript, angular, clarity design, chartjs, PWA
 
