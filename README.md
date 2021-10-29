@@ -1,6 +1,6 @@
 ## About
 
-Full-stack developer, system analyst and partner at CEI Tecnologia.
+Full-stack developer, system analyst, IT consultant and partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
 
 Former partner of Advisor Tecnologia.
 
@@ -22,16 +22,28 @@ Bachelor of Science (BS), Computer science by FEI University and also Bachelor o
 
 CEI Technology is a software development and IT consulting firm.
 
+Espelho Digital is an application offered as a product by CEI Tecnologia for the real estate market. 
+
+The objective of this project is to allow its users to book and purchase lots in new real estate development launches using desktop computers and mobile devices in real time.
+
 <video width="100%" autoplay loop>
   <source src="https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
+In addition, the application offers an interactive 3D experience for the user with the project's floor plan, showing its characteristics such as the position of the sunrise, green areas, leisure areas, streets, block filters, size, price etc.
+
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-1.png "Espelho Digital")
+
+With a few clicks, the user chooses his lot, down payment value, installments plan and contract acceptance to finally make the down payment with PIX (Brazilian bank payment system) by QR-Code.
+
+The project revolutionized the way to buy lots in the Brazilian real estate market, also becoming a viable alternative for clients who prefer not to leave their homes in view of the restrictions imposed by Covid-19. The project is an absolute success, processing more than USD 180,000 in less than 24 hours per launch.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-2.png "Espelho Digital")
 
-##### Keywords: node.js, apollo server, graphql, mongoose, mongodb, html5, css3, javascript, react, threejs, mui, material design, qr-code, mercado pago, 3D
+For the development, Node.js with Apollo framework, GraphQL API and WebSockets was used as back-end, payment processing integrated with Mercado Pago, React with MUI for the front-end and Three.js for 3D user interaction.
+
+##### Keywords: node.js, apollo server, graphql, web sockets, mongoose, mongodb, html5, css3, javascript, react, threejs, mui, material design, qr-code, mercado pago, 3D
 
 ### Gestão Digital
 
@@ -53,7 +65,7 @@ As the project evolved, new modules were added, such as printing traceable label
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-2.jpeg "Asscont Protocolos")
 
-For its construction, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
+For the development, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular, clarity design, web workers, PWA
 
@@ -65,7 +77,7 @@ Netleasefinder.com is a platform for single tenant net lease commercial real est
 
 The objective of this project was to create a data mining engine that feeds the search capabilities of the website, aggregating in a common data model 50+ real estate listing sources to the database. 
 
-For it's construction, Node.js with multiple processes, communication channels, multithreading, custom HTTP calls, Puppeteer and MongoDB as database to archive a high performance grade.
+For the development, Node.js with multiple processes, communication channels, multithreading, custom HTTP calls, Puppeteer and MongoDB as database to archive a high performance grade.
 
 ##### Keywords: node.js, mongodb, http, ajax, puppeteer, javascript, multithreading, data mining, scraper, crawler
 
@@ -77,7 +89,7 @@ The objective of this project was to create a responsive web module, capable of 
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-de-vendas.jpeg "Espelho de Vendas")
 
-For its construction, IBM Domino server and database was used with ExtJS framework for the front-end.
+For the development, IBM Domino server and database was used with ExtJS framework for the front-end.
 
 The link provided to view the project is only a demonstration, with some active features (valid bar codes: 'ATEI9JRC4E', 'ATEI9JRC4F').
 
@@ -89,7 +101,9 @@ The link provided to view the project is only a demonstration, with some active 
 
 Colabore Crowdfunding is a startup founded in 2015 with the goal of professionalizing collective financing in Brazil. Currently, the company is no longer in operation.
 
-The objective of this project was the development of a platform of own and innovative crowdfunding, where fundraising could be accompanied by any user in real time, in desktop computers as well as mobile devices.  For its construction, the Meteor framework was used, components of Google Material Design Lite for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
+The objective of this project was the development of a platform of own and innovative crowdfunding, where fundraising could be accompanied by any user in real time, in desktop computers as well as mobile devices.
+
+For the development, the Meteor framework was used, components of Google Material Design Lite for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/colabore-crowdfunding.jpeg "Colabore Crowdfunding")
 
@@ -127,7 +141,7 @@ The project includes a real-time, in-situ agricultural internet of things (IoT) 
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-1.jpeg "System architecture")
 
-For the monitoring device construction, the developed software used Node.js platform as base, with a Raspberry PI connected to all the sensors, the mesh network interface and a custom circuit board.
+For the monitoring device development, the developed software used Node.js platform as base, with a Raspberry PI connected to all the sensors, the mesh network interface and a custom circuit board.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-2.jpeg "Hardware diagram with custom circuit board")
 
@@ -159,7 +173,7 @@ Colabore Eleições is a product of Colabore Crowdfunding specifically for fundr
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/colabore-eleicoes.jpeg "Colabore Eleições")
 
-For its construction, the Koa framework was used, components of Skeleton responsive boilerplate and Bootstrap for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
+For the development, the Koa framework was used, components of Skeleton responsive boilerplate and Bootstrap for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, bootstrap, skeleton
 
@@ -171,6 +185,6 @@ The objective of this project was provide to customers a price simulation platfo
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/app-me-up.jpeg "Advisor Application Pricing")
 
-For its construction, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
+For the development, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material design
