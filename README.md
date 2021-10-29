@@ -5,7 +5,9 @@ partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
 
 Bachelor of Science (BS), Computer science by [FEI University](https://portal.fei.edu.br/){:target="_blank"} and also Bachelor of Marketing by [ESPM college](https://www.espm.br/){:target="_blank"}.
 
-Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular & React for front-end and MongoDB as database. Knowledge in Data Mining / Web Scraping / Web Crawler / Automation.
+Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular & React for front-end and MongoDB as database. 
+
+Knowledge in Data Mining / Web Scraping / Web Crawler / Automation.
 
 ## Curriculum Vitae
 
