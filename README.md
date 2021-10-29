@@ -130,6 +130,8 @@ The link provided to view the project is only a demonstration, with some active 
 
 [https://colabore.cei.dev](https://colabore.cei.dev){:target="_blank"}
 
+For the development, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
+
 ##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, material design
 
 ### Instituto Boaz Forti
@@ -140,10 +142,6 @@ The objective of this project was the development of a platform to control enrol
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/boaz-forti.jpeg "Instituto Boaz Forti")
 *Login View*
-
-The link provided to view the project is only a demonstration, with some active features (username: 'guest', password: '123456').
-
-[https://boaz.cei.dev](https://boaz.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular5, clarity design
 
