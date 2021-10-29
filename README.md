@@ -18,9 +18,7 @@ Knowledge in Data Mining / Web Scraping / Web Crawler / Automation.
 
 ### Espelho Digital
 
-CEI Technology is a software development and IT consulting firm.
-
-Espelho Digital is an application offered as a product by CEI Tecnologia for the real estate market. 
+CEI Technology is a software development and IT consulting firm. Espelho Digital is an application offered as a product by CEI Tecnologia for the real estate market. 
 
 The objective of this project is to allow its users to book and purchase lots in new real estate development launches using desktop computers and mobile devices in real time.
 
@@ -51,9 +49,7 @@ For the development, Node.js with Apollo framework, GraphQL API and WebSockets w
 
 ### Gestão Digital
 
-CEI Technology is a software development and IT consulting firm.
-
-Gestão Digital is an application offered as a product by CEI Tecnologia for the real estate market. 
+CEI Technology is a software development and IT consulting firm. Gestão Digital is an application offered as a product by CEI Tecnologia for the real estate market. 
 
 The objective of this project is to provide a standard central platform for registering real estate agents, brokers and clients for real estate launches.
 
