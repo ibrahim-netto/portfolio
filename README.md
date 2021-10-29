@@ -31,7 +31,6 @@ The objective of this project is to allow its users to book and purchase lots in
 Your browser does not support the video tag.
 </video>
 <br>
-
 In addition, the application offers an interactive 3D experience for the user with the project's floor plan, showing its characteristics such as the position of the sunrise, green areas, leisure areas, streets, block filters, size, price etc.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-1.png "Espelho Digital")
