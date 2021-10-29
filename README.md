@@ -22,7 +22,7 @@ CEI Technology is a software development and IT consulting firm. Espelho Digital
 
 The objective of this project is to allow its users to book and purchase lots in new real estate development launches using desktop computers and mobile devices in real time.
 
-<video width="100%" autoplay loop>
+<video width="100%" muted autoplay loop>
   <source src="https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
