@@ -40,7 +40,7 @@ The objective of this project was to digitize and automate the process of filing
 
 As the project evolved, new modules were added, such as printing traceable labels with QR-Code, as well as accounting conciliators for specific customers of the company.
 
-![alt text](/Users/ibrahimnetto/WebStorm Projects/portfolio/assets/images/asscont-2.jpeg "Asscont Protocolos")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-2.jpeg "Asscont Protocolos"
 
 For its construction, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
 
