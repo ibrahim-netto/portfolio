@@ -1,8 +1,11 @@
 ## About
 
-Full-stack developer, system analyst, IT consultant and partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
+Full-stack developer, system analyst, IT consultant and partner 
+at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
 
 Former partner of Advisor Tecnologia.
+
++10 Years Experience With Computer Programming / Application Development.
 
 Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular & React for front-end and MongoDB as database.
 
