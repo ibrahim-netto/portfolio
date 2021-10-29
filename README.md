@@ -11,10 +11,6 @@ Knowledge in Data Mining / Web Scraping / Web Crawler / Automation.
 
 Bachelor of Science (BS), Computer science by FEI University and also Bachelor of Marketing by ESPM college.
 
-## Skills
-
-JavaScript, HTML5, CSS3, Angular, React, ExtJS, Polymer, FrontEndDevelopment, Node.js, Express, Koa, Apollo, BackEndDevelopment, GraphQL, REST, APIDevelopment, Mongoose, MongoDB, MySQL, 3TStudio, DatabaseDevelopment, Puppeteer, Cheerio.js, Fetch, Automation, Bot, WebScraper, WebCrawler, DataExtraction, DataMining, Azure, AWS, VM, Functions, Cloud, Cordova, Electron, PKG, HybridDevelopment, GIT.
-
 ## Curriculum Vitae
 
 [Click here](https://ibrahim-netto.github.io/portfolio/assets/other/ibrahim-netto-curriculum-vitae.pdf){:target="_blank"} to download the curriculum vitae in pt-BR.
@@ -224,3 +220,7 @@ The objective of this project was provide to customers a price simulation platfo
 For the development, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material design
+
+## Skills
+
+JavaScript, HTML5, CSS3, Angular, React, ExtJS, Polymer, FrontEndDevelopment, Node.js, Express, Koa, Apollo, BackEndDevelopment, GraphQL, REST, APIDevelopment, Mongoose, MongoDB, MySQL, 3TStudio, DatabaseDevelopment, Puppeteer, Cheerio.js, Fetch, Automation, Bot, WebScraper, WebCrawler, DataExtraction, DataMining, Azure, AWS, VM, Functions, Cloud, Cordova, Electron, PKG, HybridDevelopment, GIT.
