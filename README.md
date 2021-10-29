@@ -26,7 +26,7 @@ CEI Technology is a software development and IT consulting firm.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-1.png "Espelho Digital")
 
-![alt text](https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital-2.png "Espelho Digital")
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-2.png "Espelho Digital")
 
 ##### Keywords: node.js, apollo server, graphql, mongoose, mongodb, html5, css3, javascript, react, threejs, mui, material design, qr-code, mercado pago, 3D
 
