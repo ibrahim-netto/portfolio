@@ -1,11 +1,7 @@
 ## About
 
-Full-stack developer, system analyst, IT consultant and  
-partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
-
-Former partner of Advisor Tecnologia.
-
-+10 Years Experience With Computer Programming / Application Development.
++10 years experience full-stack developer, system analyst, IT consultant and  
+partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}. Former partner of Advisor Tecnologia.
 
 Top Rated [UpWork Profile](https://www.upwork.com/freelancers/ibrahimnetto){:target="_blank"}.
 
