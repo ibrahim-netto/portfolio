@@ -1,19 +1,23 @@
 ## About
 
-Full-stack developer, system analyst, IT consultant and partner 
-at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
+Full-stack developer, system analyst, IT consultant and  
+partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}.
 
 Former partner of Advisor Tecnologia.
 
 +10 Years Experience With Computer Programming / Application Development.
 
+Top Rated [UpWork Profile](https://www.upwork.com/freelancers/ibrahimnetto){:target="_blank"}.
+
 Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular & React for front-end and MongoDB as database.
 
 Knowledge in Data Mining / Web Scraping / Web Crawler / Automation.
 
-Top Rated [UpWork Profile](https://www.upwork.com/freelancers/ibrahimnetto){:target="_blank"}.
-
 Bachelor of Science (BS), Computer science by FEI University and also Bachelor of Marketing by ESPM college.
+
+## Skills
+
+###### #JavaScript #HTML5 #CSS3 #Angular #React #ExtJS #Polymer #FrontEndDevelopment #Node.js #Express #Koa #Apollo #BackEndDevelopment #GraphQL #REST #APIDevelopment #Mongoose #MongoDB #MySQL #3TStudio #DatabaseDevelopment #Puppeteer #Cheerio.js #Fetch #Automation #Bot #WebScraper #WebCrawler #DataExtraction #DataMining #Azure #AWS #VM #Functions #Cloud #Cordova #Electron #PKG #HybridDevelopment
 
 ## Curriculum Vitae
 
@@ -52,7 +56,7 @@ The project revolutionized the way to buy lots in the Brazilian real estate mark
 
 For the development, Node.js with Apollo framework, GraphQL API and WebSockets was used as back-end, payment processing integrated with Mercado Pago, React with MUI for the front-end and Three.js for 3D user interaction.
 
-##### Keywords: node.js, apollo server, graphql, web sockets, mongoose, mongodb, html5, css3, javascript, react, threejs, mui, material design, qr-code, mercado pago, 3D
+##### Keywords: node.js, apollo server, graphql, web sockets, mongoose, mongodb, docker, azure html5, css3, javascript, react, threejs, mui, material design, qr-code, mercado pago, 3D
 
 ### Gestão Digital
 
