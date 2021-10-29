@@ -24,11 +24,19 @@ CEI Technology is a software development and IT consulting firm.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mov "Espelho Digital")
 
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-1.png "Espelho Digital")
+
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital-2.png "Espelho Digital")
+
+##### Keywords: node.js, apollo server, graphql, mongoose, mongodb, html5, css3, javascript, react, threejs, mui, material design, qr-code, mercado pago, 3D
+
 ### Gestão Digital
 
 CEI Technology is a software development and IT consulting firm.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-digital.png "Gestão Digital")
+
+##### Keywords: node.js, apollo server, graphql, mongoose, mongodb, html5, css3, javascript, typescript, angular, clarity design, chartjs, PWA
 
 ### Asscont Protocolos
 
@@ -44,7 +52,7 @@ As the project evolved, new modules were added, such as printing traceable label
 
 For its construction, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
 
-Keywords: node.js, koa, angular, clarity design, mongodb, html5, css3, javascript, typescript, web workers, PWA
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular, clarity design, web workers, PWA
 
 ### NetLeaseFinder Data Mining Engine
 
@@ -56,7 +64,7 @@ The objective of this project was to create a data mining engine that feeds the 
 
 For it's construction, Node.js with multiple processes, communication channels, multithreading, custom HTTP calls, Puppeteer and MongoDB as database to archive a high performance grade.
 
-##### Keywords: node.js, mongodb, http, ajax, puppeteer, multithreading, data mining, scraper, crawler
+##### Keywords: node.js, mongodb, http, ajax, puppeteer, javascript, multithreading, data mining, scraper, crawler
 
 ### Espelho de Vendas
 
@@ -86,7 +94,7 @@ The link provided to view the project is only a demonstration, with some active 
 
 [https://colabore.cei.dev](https://colabore.cei.dev){:target="_blank"}
 
-##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, material-design
+##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, material design
 
 ### Instituto Boaz Forti
 
@@ -124,7 +132,7 @@ For the central communication with all monitoring devices, the Koa framework was
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-3.jpeg "Prototype built")
 
-##### Keywords: node.js, koa, mongodb, html5, css3, javascript, semantic-ui, highcharts, raspberry-pi, zigbee
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, semantic ui, highcharts, raspberry pi, zigbee
 
 ### Papel de Pão
 
@@ -138,7 +146,7 @@ The link provided to view the project is only a demonstration, with some active 
 
 [https://papeldepao.cei.dev](https://papeldepao.cei.dev){:target="_blank"}
 
-##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, polymer, material-design
+##### Keywords: node.js, meteor, mongodb, html5, css3, javascript, polymer, material design
 
 ### Colabore Eleições
 
@@ -162,4 +170,4 @@ The objective of this project was provide to customers a price simulation platfo
 
 For its construction, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
 
-##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material-design
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material design
