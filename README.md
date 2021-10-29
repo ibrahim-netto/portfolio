@@ -4,15 +4,59 @@ Full-stack developer, system analyst and partner at CEI Tecnologia.
 
 Former partner of Advisor Tecnologia.
 
-Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular 5 for front-end and MongoDB as database.
+Specialized in web and hybrid application development with Node.js as back-end, single-page applications with Angular & React for front-end and MongoDB as database.
 
-Graduated in Computer Science from FEI University and also graduated in Marketing from ESPM college.
+Knowledge in Data Mining / Web Scraping / Web Crawler / Automation.
+
+Top Rated [UpWork Profile](https://www.upwork.com/freelancers/ibrahimnetto){:target="_blank"}.
+
+Bachelor of Science (BS), Computer science by FEI University and also Bachelor of Marketing by ESPM college.
 
 ## Curriculum Vitae
 
 [Click here](https://ibrahim-netto.github.io/portfolio/assets/other/ibrahim-netto-curriculum-vitae.pdf){:target="_blank"} to download the curriculum vitae in pt-BR.
 
 ## Portfolio
+
+### Espelho Digital
+
+CEI Technology is a software development and IT consulting firm.
+
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mov "Espelho Digital"
+
+### Gestão Digital
+
+CEI Technology is a software development and IT consulting firm.
+
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-digital.png "Gestão Digital"
+
+### Asscont Protocolos
+
+Asscont is a company with 40 years of experience in the accounting, auditing and forensic accounting segment, having performed the most varied works for national and international clients.
+
+The objective of this project was to digitize and automate the process of filing documents for the company's customers. As a requirement, the recipient's signature is collected as proof on the cell phone.
+
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-1.jpeg "Asscont Protocolos"
+
+As the project evolved, new modules were added, such as printing traceable labels with QR-Code, as well as accounting conciliators for specific customers of the company.
+
+![alt text](/Users/ibrahimnetto/WebStorm Projects/portfolio/assets/images/asscont-2.jpeg "Asscont Protocolos")
+
+For its construction, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
+
+Keywords: node.js, koa, angular, clarity design, mongodb, html5, css3, javascript, typescript, web workers, PWA
+
+### NetLeaseFinder Data Mining Engine
+
+Netleasefinder.com is a platform for single tenant net lease commercial real estate creating an ecosystem for principals, agents, developers and other third parties interested in research, data and investments.
+
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/netleasefinder.gif "NetLeaseFinder Data Scraper"
+
+The objective of this project was to create a data mining engine that feeds the search capabilities of the website, aggregating in a common data model 50+ real estate listing sources to the database. 
+
+For it's construction, Node.js with multiple processes, communication channels, multithreading, custom HTTP calls, Puppeteer and MongoDB as database to archive a high performance grade.
+
+##### Keywords: node.js, mongodb, http, ajax, puppeteer, multithreading, data mining, scraper, crawler
 
 ### Espelho de Vendas
 
@@ -56,7 +100,7 @@ The link provided to view the project is only a demonstration, with some active 
 
 [https://boaz.cei.dev](https://boaz.cei.dev){:target="_blank"}
 
-##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular5, clarity-design
+##### Keywords: node.js, koa, mongodb, html5, css3, javascript, typescript, angular5, clarity design
 
 ### Precision Agriculture Using Remote Monitoring Systems
 
@@ -79,10 +123,6 @@ For the monitoring device construction, the developed software used Node.js plat
 For the central communication with all monitoring devices, the Koa framework was used together with a custom communication protocol over Zigbee, components of Semantic UI and Highcharts for the data visualization front-end and MongoDB as database.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/precision-agriculture-3.jpeg "Prototype built")
-
-The link provided to view the project is only a demonstration, with some active features.
-
-[https://agricultura.cei.dev](https://agricultura.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, semantic-ui, highcharts, raspberry-pi, zigbee
 
@@ -110,10 +150,6 @@ Colabore Eleições is a product of Colabore Crowdfunding specifically for fundr
 
 For its construction, the Koa framework was used, components of Skeleton responsive boilerplate and Bootstrap for the front-end, MongoDB as database and integration with PagSeguro online payment platform.
 
-The link provided to view the project is only a demonstration, with some active features.
-
-[https://colabore-eleicoes.cei.dev](https://colabore-eleicoes.cei.dev){:target="_blank"}
-
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, bootstrap, skeleton
 
 ### Advisor Application Pricing
@@ -125,9 +161,5 @@ The objective of this project was provide to customers a price simulation platfo
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/app-me-up.jpeg "Advisor Application Pricing")
 
 For its construction, the Koa framework was used, Polymer library with Paper-Elements (Google Material Design components) for the front-end and MongoDB as database.
-
-The link provided to view the project is only a demonstration, with some active features.
-
-[https://appmeup.cei.dev](https://appmeup.cei.dev){:target="_blank"}
 
 ##### Keywords: node.js, koa, mongodb, html5, css3, javascript, polymer, material-design
