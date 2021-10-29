@@ -38,7 +38,7 @@ With a few clicks, the user chooses his lot, down payment value, installments pl
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-clientes-1.png "Espelho Digital")
 *Espelho Digital Customers*
 
-The project revolutionized the way to buy lots in the Brazilian real estate market, also becoming a viable alternative for clients who prefer not to leave their homes in view of the restrictions imposed by Covid-19. The project is an absolute success, processing more than USD 180,000 in less than 24 hours per launch.
+The project revolutionized the way to buy lots in the Brazilian real estate market, also becoming a viable alternative for clients who prefer not to leave their homes in view of the restrictions imposed by Covid-19, processing more than USD 180,000 (1 million BRL) in less than 24 hours on launch.
 
 ![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/espelho-digital-2.png "Espelho Digital")  
 *QR-Code Down Payment View*
