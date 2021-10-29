@@ -1,6 +1,6 @@
 ## About
 
-+10 years experience full-stack developer, system analyst, IT consultant and  
+Full-stack developer with +10 years experience, system analyst, IT consultant and  
 partner at [CEI Tecnologia](https://www.ceitecnologia.com.br){:target="_blank"}. Top Rated [UpWork Profile](https://www.upwork.com/freelancers/ibrahimnetto){:target="_blank"}.
 
 Bachelor of Science (BS), Computer science by [FEI University](https://portal.fei.edu.br/){:target="_blank"} and also Bachelor of Marketing by [ESPM college](https://www.espm.br/){:target="_blank"}.
