@@ -50,7 +50,7 @@ Keywords: node.js, koa, angular, clarity design, mongodb, html5, css3, javascrip
 
 Netleasefinder.com is a platform for single tenant net lease commercial real estate creating an ecosystem for principals, agents, developers and other third parties interested in research, data and investments.
 
-![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/netleasefinder.gif "NetLeaseFinder Data Scraper"
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/netleasefinder.gif "NetLeaseFinder Data Scraper")
 
 The objective of this project was to create a data mining engine that feeds the search capabilities of the website, aggregating in a common data model 50+ real estate listing sources to the database. 
 
