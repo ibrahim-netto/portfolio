@@ -22,13 +22,13 @@ Bachelor of Science (BS), Computer science by FEI University and also Bachelor o
 
 CEI Technology is a software development and IT consulting firm.
 
-![alt text](https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mov "Espelho Digital"
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mov "Espelho Digital")
 
 ### Gestão Digital
 
 CEI Technology is a software development and IT consulting firm.
 
-![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-digital.png "Gestão Digital"
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/gestao-digital.png "Gestão Digital")
 
 ### Asscont Protocolos
 
@@ -36,11 +36,11 @@ Asscont is a company with 40 years of experience in the accounting, auditing and
 
 The objective of this project was to digitize and automate the process of filing documents for the company's customers. As a requirement, the recipient's signature is collected as proof on the cell phone.
 
-![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-1.jpeg "Asscont Protocolos"
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-1.jpeg "Asscont Protocolos")
 
 As the project evolved, new modules were added, such as printing traceable labels with QR-Code, as well as accounting conciliators for specific customers of the company.
 
-![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-2.jpeg "Asscont Protocolos"
+![alt text](https://ibrahim-netto.github.io/portfolio/assets/images/asscont-2.jpeg "Asscont Protocolos")
 
 For its construction, Node.js with Koa framework was used as back-end, Angular with Clarity Design components for the front-end, web workers for offline and bad internet connection synchronization, possibility of installing the application by PWA and MongoDB as database.
 
