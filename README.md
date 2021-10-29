@@ -22,7 +22,7 @@ Bachelor of Science (BS), Computer science by FEI University and also Bachelor o
 
 CEI Technology is a software development and IT consulting firm.
 
-<video width="320" height="240" controls>
+<video width="100%" autoplay loop>
   <source src="https://ibrahim-netto.github.io/portfolio/assets/videos/espelho-digital.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
